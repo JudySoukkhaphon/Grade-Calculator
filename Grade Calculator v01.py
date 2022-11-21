@@ -1,4 +1,3 @@
-# This program was a practice in data handling and using tKinter to create a GUI.
 # Uses 'Grid' functions from the tKinter library
 # The "ugliness" of the program, i.e., the colors of the boxes are for visibility not aesthetic!
 
